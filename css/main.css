@@ -38,7 +38,7 @@ body footer{
 
  header h1 {
 	padding: 38px 0px;
-	font-family: 'Monterrat Bold' sans-serif;
+	font-family: 'Montserrat Bold' sans-serif;
 	font-size: 30px;
 }
 
@@ -83,19 +83,19 @@ img{
 
  h2 {
 	color: #669966;
-	font-family: 'Monterrat Bold' sans-serif;
+	font-family: 'Montserrat Bold' sans-serif;
 	font-size: 23px;
 	font-weight: bold;
 	line-height: 25px;	
-	padding: 30px, 0;
+	padding-top: 10px;
 }
 
 p {
 	font-weight: lighter;
 	font-size: 16px;
 	line-height: 25px;
-	padding: 30px, 0;
-	font-family: 'Monterrat Regular' sans-serif
+	padding-top: 10px;
+	font-family: 'Montserrat Regular' sans-serif
 }
 
 /*****BOTTOM*****/
@@ -107,7 +107,7 @@ p {
 
  #menu h3, #reviews h3, #contact h3 {
 	font-size: 12px;
-	font-family: 'Monterrat Bold' sans-serif;
+	font-family: 'Montserrat Bold' sans-serif;
 	line-height: 25px;
 	font-variant: small-caps;
 	border-top: 1px solid black;
